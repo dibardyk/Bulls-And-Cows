@@ -31,6 +31,3 @@ The program allows a user to play the game against the computer in two different
 - Windows console API (`Windows.h`)
 - Dev-C++ (recommended IDE)
 - Standard libraries (`iostream`, `ctime`, `algorithm`, etc.)
-  
-```bash
-git clone https://github.com/your-username/bulls-and-cows.git
