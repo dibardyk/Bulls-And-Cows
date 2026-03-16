@@ -1,6 +1,6 @@
 # Bulls and Cows
 
-This project is a console implementation of the classic logical game **“Bulls and Cows”**, developed in **C++** as a coursework project.
+This project is a console implementation of the classic logical game **“Bulls and Cows”**, developed in **C++**.
 
 The program allows a user to play the game against the computer in two different modes using a text-based interface.
 
